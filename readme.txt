@@ -1,7 +1,2 @@
 This is a sample file, 
 created for Jenkins Demo
-
-Helllooo Jenkins!
-Jenkins TestJOb_01
-
-
